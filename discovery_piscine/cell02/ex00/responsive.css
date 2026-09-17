@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    height: 100vh;
+}
+td {
+    width: 50%;
+}
+td:first-child {
+    background-color: lightblue;
+}
+td:last-child {
+    background-color: lightgreen;
+}
